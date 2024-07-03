@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(207, 196, 192);
+  background-color: rgb(235, 231, 220);
   font-family: sans-serif;
 }
 
@@ -25,7 +25,7 @@ select {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: rgb(246, 246, 242);
+  background-color: rgb(183, 120, 141);
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 8px;
